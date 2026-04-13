@@ -14,7 +14,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seithu27&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Seithu27&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seithu27&layout=compact&theme=tokyonight" alt="Top Langs" height="170px" />
 </p>
 
